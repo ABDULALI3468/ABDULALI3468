@@ -83,6 +83,8 @@ Full-stack software developer student @ Microverse, ready for adventure.I am an 
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/MrRamoun/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/ABDULALI3468/count.svg" alt="visitor badge"/></p>
+![Visitor's Count](https://profile-counter.glitch.me/ABDULALI3468/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULALI3468)](https://github.com/ABDULALI3468/github-readme-stats)
 
