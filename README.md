@@ -1,7 +1,6 @@
 ### Hi there I'm ABDUL ALI 👋
 
-_Full-stack software developer student @ Microverse, ready for adventure_
-_I am an experienced software developer focused on crafting great web experiences. Im skilled in developing, designing, and conceptualizing interactive websites and great web applications. Im also experienced in maintaining websites and web applications, including content updates, account administration, debugging, feature enhancements and documentations, testing, and regular upgrades to ensure web security and system usability.
+_Full-stack software developer student @ Microverse, ready for adventure.I am an experienced software developer focused on crafting great web experiences. Im skilled in developing, designing, and conceptualizing interactive websites and great web applications. Im also experienced in maintaining websites and web applications, including content updates, account administration, debugging, feature enhancements and documentations, testing, and regular upgrades to ensure web security and system usability.
 
 [![Gmail](https://img.shields.io/badge/-roberto.banos.mv@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto://roberto.banos.mv@gmail.com)](mailto://roberto.banos.mv@gmail.com)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Roberto%20A%20Baños%20Alvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-a-baños-alvarez-500766234/)](https://www.linkedin.com/in/roberto-a-baños-alvarez-500766234/)&nbsp;[![Twitter Badge](https://img.shields.io/badge/-@RobertoBanosMV_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RobertoBanosMV)](https://twitter.com/RobertoBanosMV)&nbsp;
 
@@ -73,6 +72,17 @@ _I am an experienced software developer focused on crafting great web experience
 [![wakatime](https://wakatime.com/badge/user/f2eaf60c-5806-40fa-ba2d-a70b553104b4.svg)](https://wakatime.com/@f2eaf60c-5806-40fa-ba2d-a70b553104b4)
 
 [![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbanos-mv&count_private=true&show_icons=true&theme=swift)](https://github.com/rbanos-mv/github-readme-stats)
+
+## Interests
+
+- Interested in C++ & Python. Recent focus on full stack.
+- Currently learning Microprocessor Design & Programming.
+- Reading more about Computer History, History of C, Dennis Ritchie.
+- With 8+ years of computer science and technology education and 6 months of development working experience.
+- Encouraging people for open source collaborations.
+
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/MrRamoun/count.svg" alt="visitor badge"/></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbanos-mv)](https://github.com/rbanos-mv/github-readme-stats)
 
