@@ -1,8 +1,8 @@
 ### Hi there I'm ABDUL ALI 👋
 
-_Full-stack software developer student @ Microverse, ready for adventure.I am an experienced software developer focused on crafting great web experiences. Im skilled in developing, designing, and conceptualizing interactive websites and great web applications. Im also experienced in maintaining websites and web applications, including content updates, account administration, debugging, feature enhancements and documentations, testing, and regular upgrades to ensure web security and system usability.
+Full-stack software developer student @ Microverse, ready for adventure.I am an experienced software developer focused on crafting great web experiences. Im skilled in developing, designing, and conceptualizing interactive websites and great web applications. Im also experienced in maintaining websites and web applications, including content updates, account administration, debugging, feature enhancements and documentations, testing, and regular upgrades to ensure web security and system usability.
 
-[![Gmail](https://img.shields.io/badge/-mrabdulali2003@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto://mrabdulali2003@gmail.com)](mailto://mrabdulali2003@gmail.com)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Roberto%20A%20Baños%20Alvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://twitter.com/mrabdul_ali)](https://www.linkedin.com/in/roberto-a-baños-alvarez-500766234/)&nbsp;[![Twitter Badge](https://img.shields.io/badge/-@RobertoBanosMV_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mrabdul_ali)](https://twitter.com/mrabdul_ali)&nbsp;
+[![Gmail](https://img.shields.io/badge/-mrabdulali2003@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto://mrabdulali2003@gmail.com)](mailto://mrabdulali2003@gmail.com)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-ABDUL%20ALI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-ali-5400bb216/)](https://www.linkedin.com/in/abdul-ali-5400bb216/)&nbsp;[![Twitter Badge](https://img.shields.io/badge/-@mrabdul_ali_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mrabdul_ali)](https://twitter.com/mrabdul_ali)&nbsp;
 
 <!--
 [![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
@@ -87,11 +87,11 @@ _Full-stack software developer student @ Microverse, ready for adventure.I am an
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbanos-mv)](https://github.com/rbanos-mv/github-readme-stats)
 
 <!-- 
-[![Roberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rbanos)](https://github.com/rbanos-mv/github-readme-stats)
+[![ABDUL ALI's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rbanos)](https://github.com/rbanos-mv/github-readme-stats)
 -->
 
 <!--
-**rbanos-mv/rbanos-mv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ABDULALI3468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
