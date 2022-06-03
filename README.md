@@ -71,7 +71,7 @@ Full-stack software developer student @ Microverse, ready for adventure.I am an 
 
 [![wakatime](https://wakatime.com/badge/user/f2eaf60c-5806-40fa-ba2d-a70b553104b4.svg)](https://wakatime.com/@f2eaf60c-5806-40fa-ba2d-a70b553104b4)
 
-[![ABDULALI's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbanos-mv&count_private=true&show_icons=true&theme=swift)](https://github.com/rbanos-mv/github-readme-stats)
+[![ABDULALI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABDULALI3468&count_private=true&show_icons=true&theme=swift)](https://github.com/ABDULALI3468/github-readme-stats)
 
 ## Interests
 
@@ -84,10 +84,10 @@ Full-stack software developer student @ Microverse, ready for adventure.I am an 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/MrRamoun/count.svg" alt="visitor badge"/></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbanos-mv)](https://github.com/rbanos-mv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULALI3468)](https://github.com/ABDULALI3468/github-readme-stats)
 
 <!-- 
-[![ABDUL ALI's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rbanos)](https://github.com/rbanos-mv/github-readme-stats)
+[![ABDUL ALI's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ABDULALI3468)](https://github.com/ABDULALI3468/github-readme-stats)
 -->
 
 <!--
