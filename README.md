@@ -16,13 +16,12 @@ Full-stack software developer student @ Microverse, ready for adventure.I am an 
 
 ### Programming languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-<img src="https://th.bing.com/th/id/R.d81c04d746224d25d1ae75b62e7561f3?rik=U1LfuH4fG4gBLw&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fRuby_logo.png&ehk=pdFSeKP%2fGRRuGPLxzDEsary7DOpTReXDqILn%2fjd40Tk%3d&risl=1&pid=ImgRaw&r=0" style="width: 40px;height: 40px;" alt="RUBY" />
+<img src="https://th.bing.com/th/id/R.3c7053268b216e0f3cd081fdcff3c1e9?rik=%2fCD4EjWyxYCGlw&pid=ImgRaw&r=0" alt="JAVASCRIPT" style="display: inline; width: 50px;height: 50px;"/><img src="https://th.bing.com/th/id/R.d81c04d746224d25d1ae75b62e7561f3?rik=U1LfuH4fG4gBLw&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fRuby_logo.png&ehk=pdFSeKP%2fGRRuGPLxzDEsary7DOpTReXDqILn%2fjd40Tk%3d&risl=1&pid=ImgRaw&r=0" style="display: inline;width: 40px;height: 40px;" alt="RUBY" />
 
 <!-- ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react) -->
 
 ### Frameworks
-<img src="https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0" style="width: 40px;height: 40px;" alt="REACT" /> ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+<img src="https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0" style="width: 40px;height: 40px;" alt="REACT" /> <img src="https://th.bing.com/th/id/R.7a7d284bbbce605899d6d6d4f2cd6663?rik=E5q2PYn7iMV8Vw&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fRuby_on_Rails_logo.png&ehk=6bTeBymsrjCekevA5rzdOZSc1q1N5QHT0rlCSeK2HDI%3d&risl=&pid=ImgRaw&r=0" style="width:80px;height: 50px;" alt="RUBY ON RAILS" /> ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 
 ### Tools
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
